@@ -5,7 +5,7 @@
 - [x] Day 1 – Linux Fundamentals
 - [x] Day 3 – Linux / Log practice
 
-- [ ] Day 4 –
+- [x] Day 4 – Linux 
 - [ ] Day 5 –
 
 ## Goal
